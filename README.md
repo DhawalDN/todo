@@ -1,1 +1,1 @@
-# todo
+This is an example of TODO with MongoDB connection
